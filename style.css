@@ -1,0 +1,59 @@
+body {
+    background: #a6a6fc;
+}
+  
+  p {
+    color: whitesmoke;
+    font-family: cursive;
+    font-size: 17px;
+  }
+  
+  h1 {
+    color: black;
+    font-size: 40px;
+  }
+  
+  h2 {
+    color: black;
+    font-family: cursive;
+  }
+  
+  h3 {
+    color: black;
+    font-family: cursive;
+  }
+  
+  h4 {
+    color: whitesmoke;
+    font-family: cursive;
+  }
+  
+  h5 {
+    color: black;
+    text-align: right;
+    font-size: 25px;
+  }
+  
+  h6 {
+    color: black;
+    text-align: right;
+    font-size: 17px;
+  }
+  
+  li {
+    color: whitesmoke;
+    font-size: 17px;
+  }
+
+  a {font-size: 17px}
+  
+  img {
+    width: 500px;
+    height: 300px;
+    margin: 40px;
+    align-self: center;
+    border-color: whitesmoke;
+    border-width: 10px;
+    border-style: double;
+    border-radius: 15px;
+  }
